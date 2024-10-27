@@ -7,10 +7,9 @@ Greetings and welcome to my Cloud Engineer Academy repository! This collection s
 
 # Hands-On Projects Overview
 Projects included in this repository:
-
-# Auto Scaling Group (ASG) Deployment
-- File: cea-cloudformation/asg.yaml
-- Description: Implements an Auto Scaling Group for dynamic resource management.
+  # Auto Scaling Group (ASG) Deployment
+  - File: cea-cloudformation/asg.yaml
+  - Description: Implements an Auto Scaling Group for dynamic resource management.
 
 # EC2 Instance Deployment
 - File: cea-cloudformation/ec2.yaml
