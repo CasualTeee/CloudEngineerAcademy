@@ -13,27 +13,27 @@ Auto Scaling Group (ASG) Deployment
   - Description: Implements an Auto Scaling Group for dynamic resource management.
 
 EC2 Instance Deployment
-- File: cea-cloudformation/ec2.yaml
+- File: cea_cloudformation/ec2.yaml
 - Description: Sets up EC2 instances with specified configurations.
 
 IAM Roles and Policies
-- File: cea-cloudformation/iam.yaml
+- File: cea_cloudformation/iam.yaml
 - Description: Defines IAM roles and policies for secure access management.
 
 RDS Database Setup
-- File: cea-cloudformation/rds.yaml
+- File: cea_cloudformation/rds.yaml
 - Description: Configures a Relational Database Service (RDS) instance.
 
 S3 Bucket Creation
-- File: cea-cloudformation/s3-bucket.yaml
+- File: cea_cloudformation/s3-bucket.yaml
 - Description: Creates and configures an S3 bucket for storage.
 
 S3 Static Website Hosting
-- File: cea-cloudformation/s3-static.yaml
+- File: cea_cloudformation/s3-static.yaml
 - Description: Sets up an S3 bucket for static website hosting.
 
 VPC Network Configuration
-- File: cea-cloudformation/vpc.yaml
+- File: cea_cloudformation/vpc.yaml
 - Description: Establishes a Virtual Private Cloud (VPC) with necessary networking components.
 
 
