@@ -41,15 +41,15 @@ VPC Network Configuration
 Key Features
 VPC & Subnets: Public for the Bastion Host, private for app instances.
 
-Bastion Host: Secure SSH access to private instances.
+ - Bastion Host: Secure SSH access to private instances.
 
-Security Groups: Restrict SSH and network access.
+ - Security Groups: Restrict SSH and network access.
 
-Internet Gateway: Public internet access for the Bastion Host only.
+ - Internet Gateway: Public internet access for the Bastion Host only.
 
 Usage
-Deploy the CloudFormation template.
+ - Deploy the CloudFormation template.
 
-SSH into the Bastion Host.
+ - SSH into the Bastion Host.
 
-Access private instances securely.
+ - Access private instances securely.
