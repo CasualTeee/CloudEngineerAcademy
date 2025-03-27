@@ -1,4 +1,4 @@
-# Cloud Engineering Academy Projects
+# Cloud Engineering Academy Project
 
 Greetings and welcome to my Cloud repository! This collection showcases the various projects I've developed and the skills I've refined during my time in the Cloud Engineer Academy.
 
